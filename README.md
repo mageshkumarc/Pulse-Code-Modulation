@@ -137,14 +137,10 @@ plt.show()
 
 # Output Waveform
 ## Pulse Code Modulation
-<img width="1189" height="990" alt="image" src="https://github.com/user-attachments/assets/0acc8523-b36e-4dfb-a08f-69e8c52f9649" />
+<img width="1200" height="990" alt="image" src="https://github.com/user-attachments/assets/0acc8523-b36e-4dfb-a08f-69e8c52f9649" />
 
 ## Delta Modulation
-
-
-
+<img width="1200" height="590" alt="image" src="https://github.com/user-attachments/assets/4195cc51-5a36-4736-837f-9363ce583cfd" />
 
 # Results
-```
-Attach the output waveform
-```
+thus, the waveform for PCM and DM generated successfully.
